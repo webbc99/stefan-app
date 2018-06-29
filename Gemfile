@@ -10,6 +10,11 @@ end
 gem 'rails', '~> 5.1.6'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
+# Use Bootstap for design
+gem 'bootstrap', '~> 4.1.1'
+gem 'sprockets-rails', '>= 2.3.2'
+gem 'jquery-rails'
+gem 'popper_js', '~> 1.12.9'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
